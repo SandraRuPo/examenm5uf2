@@ -4,3 +4,8 @@ ls
 cd dam2m5uf2/examenm5uf2/
 git init
 git remote add origin tps://github.com/SandraRuPo/examenm5uf2.git
+git add .
+git status
+git commit -m 'Primer Commit'
+git push https://github.com/SandraRuPo/examenm5uf2.git master
+git status
