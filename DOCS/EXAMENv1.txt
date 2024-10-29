@@ -1,0 +1,6 @@
+URL: https://github.com/SandraRuPo/examenm5uf2.git
+
+ls
+cd dam2m5uf2/examenm5uf2/
+git init
+git remote add origin tps://github.com/SandraRuPo/examenm5uf2.git
