@@ -2,3 +2,4 @@ git status
 git add .
 git commit -m 'Commit Versió 5'
 git push
+git push --set-upstream origin master
