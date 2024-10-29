@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m 'Commit versió 7'
+git push
+git push --set-upstream origin mywork
