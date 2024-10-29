@@ -1,0 +1,8 @@
+git branch
+git branch p1
+git checkout p1
+git status
+git add .
+git status
+git push
+git Commit
